@@ -674,7 +674,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
         android:background="@drawable/reset_wordsearch_supergirls"
-        android:text="Reset"
+        android:text="रीसेट"
         android:textFontWeight="2dp"
         android:textSize="25sp"
         android:textStyle="bold"
