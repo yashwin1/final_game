@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     android:background="@drawable/wordsearch_instructions_bg">
 
+<!--   Using a Relative layout over Constraint layout is much better.   -->
+    
     <ImageView
         android:id="@+id/imageView20"
         android:layout_width="273dp"
