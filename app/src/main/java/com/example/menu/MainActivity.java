@@ -63,6 +63,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, supergirls_games.class);
                 startActivity(intent);
+            
+//             You can write these tow lines of code in just one line as 
+//             startActivity(new Intent(MainActivity.this, supergirls_games.class));    
+                
             }
         });
 
