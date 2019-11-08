@@ -22,6 +22,9 @@ public class goat_games extends Activity {
                 Intent intent = new Intent(goat_games.this, instructions_word_search_goat.class);
                 startActivity(intent);
 
+//              You can reduce these two lies of code into just one line
+                
+                
             }
         });
         game2.setOnClickListener(new View.OnClickListener() {
